@@ -1,0 +1,18 @@
+{
+  "name": "ethereum-ico-example",
+  "version": "0.0.1",
+  "description": "Example of Ethereum ICO based on OpenZeppelin framework and TokenMarketNet/ico framework",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "zeppelin-solidity": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Kirill Beresnev <kirill.b@smartum.pro>",
+  "license": "MIT"
+}
